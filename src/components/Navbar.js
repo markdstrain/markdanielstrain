@@ -64,7 +64,7 @@ function InfoBar(){
                                                                                           </Nav.Item >
                                                                                           <Nav.Link 
                                                                                                     to="#"
-                                                                                                    href='https://drive.google.com/file/d/1Q5ZNwClBjUbNq4G45Z3pghd55siX9_sz/view?usp=sharing'
+                                                                                                    href='https://drive.google.com/file/d/107EKfU0l6fTOK_xiuubzemJOmbMyydIV/view?usp=sharing'
                                                                                                     target="_blank"
                                                                                                     eventKey='event3'>
                                                                                                     <div className="link link-text">
