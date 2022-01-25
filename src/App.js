@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import  Art from "./components/Art";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 import LandingPage from "./components/LandingPage";
