@@ -39,11 +39,9 @@ function About(){
                                                             <p className='responsive'>
                                                             Thanks so much for visiting my site!  I'm a Software Engineer with an ability 
                                                             for creative problem solving.  I have over 15 years of experience identifying and 
-                                                            manufacturing solutions to customers residential carpentry needs.  Before my tenure 
-                                                            in construction, I balanced the left and right brain throughout my college career in 
-                                                            mathematical theory and fine arts.  I've always been in love with tackling analytical 
+                                                            manufacturing solutions to customers residential carpentry needs. I've always been in love with tackling analytical 
                                                             problems with artistic and innovative solutions.  I believe this unique skill set will make 
-                                                            me an excellent candidate for a junior position at any tech company.
+                                                            me an excellent candidate for a junior position at any company.
                                                             </p>
                                                             <p className='responsive' style={{textDecoration:"underline"}}>
                                                                       Technical Skills & compentencies:

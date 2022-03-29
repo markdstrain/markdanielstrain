@@ -33,8 +33,8 @@ function Projects() {
                                                             <p className='responsive'>
                                                                       Full-Stack Basketball Stat Tracker. Using NBA stats that were scraped from &nbsp;
                                                                       <a className='basketball-anchor' href='https://www.basketball-reference.com/'>basketball-reference.com</a>, &nbsp;
-                                                                      one can follow all their favorite basketball players stats.  With sign-up and log-in capabilites a user 
-                                                                      is able to add players to a fantasy league team so that they can keep up with their players fantasy league 
+                                                                      one can follow all their favorite basketball players' stats.  With sign up and log in capabilites, a user 
+                                                                      is able to add players to a fantasy league team so that they can keep up with their players' fantasy league 
                                                                       points. 
                                                                       <br/>
                                                                       <span style={{textDecoration:'underline'}}>Technologies Used:</span> JavaScript, Bootstrap, Beautiful Soup, Python, Flask, PostgreSQL, Bcrypt, SQLAlchemy, 
@@ -89,7 +89,7 @@ function Projects() {
                                                             <p className='responsive'>
                                                                       This app is uses Uber's Mapbox to lay out a global map that is pin pointed with places that 
                                                                       are suitable for skateboarding. Anyone can use the site to see the locations. However using
-                                                                      JWT Tokens and Bcrypt passwords users can sign-up and log-in to the site to add new locations 
+                                                                      JWT Tokens and Bcrypt passwords users can sign up and log in to the site to add new locations 
                                                                       and add comments to existing ones. <br/>
                                                                       <span style={{textDecoration:'underline'}}>Technologies Used:</span> React.js,
                                                                       Express.js,  Bcrypt, JWT, and Bootstrap.
